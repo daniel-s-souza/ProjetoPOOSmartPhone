@@ -1,0 +1,15 @@
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\bin\Debug\net7.0\ProjetoPOOSmartPhone.exe
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\bin\Debug\net7.0\ProjetoPOOSmartPhone.deps.json
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\bin\Debug\net7.0\ProjetoPOOSmartPhone.runtimeconfig.json
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\bin\Debug\net7.0\ProjetoPOOSmartPhone.dll
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\bin\Debug\net7.0\ProjetoPOOSmartPhone.pdb
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\obj\Debug\net7.0\ProjetoPOOSmartPhone.csproj.AssemblyReference.cache
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\obj\Debug\net7.0\ProjetoPOOSmartPhone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\obj\Debug\net7.0\ProjetoPOOSmartPhone.AssemblyInfoInputs.cache
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\obj\Debug\net7.0\ProjetoPOOSmartPhone.AssemblyInfo.cs
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\obj\Debug\net7.0\ProjetoPOOSmartPhone.csproj.CoreCompileInputs.cache
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\obj\Debug\net7.0\ProjetoPOOSmartPhone.dll
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\obj\Debug\net7.0\refint\ProjetoPOOSmartPhone.dll
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\obj\Debug\net7.0\ProjetoPOOSmartPhone.pdb
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\obj\Debug\net7.0\ProjetoPOOSmartPhone.genruntimeconfig.cache
+D:\Projetos\ProjetosDio\ProjetoPOOSmartPhone\obj\Debug\net7.0\ref\ProjetoPOOSmartPhone.dll
