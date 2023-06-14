@@ -14,7 +14,7 @@ namespace ProjetoPOOSmartPhone.Models
 
     public override void InstalarAplicativo(string nomeApp)
     {
-      Console.WriteLine($"Instalando {nomeApp} pela AppStore");
+      Console.WriteLine($"Instalando {nomeApp} pela Play Store");
     }
   }
 }
